@@ -1,5 +1,4 @@
 # Scoliosis Detector
-***
 ## Inspiration
 Our experience with scoliosis inspired us to build a website that shows you how to do the therapy/exercise by yourself during covid without having physical contact with the orthopedic doctors when it is not necessary. There are people who have scoliosis but can’t get the care that they need from orthopedic doctors due to COVID or other reasons. Our project helps users manage their scoliosis without having the need to leave their house.
 
@@ -21,5 +20,6 @@ I learned how to use Azure Custom Vision API for a simple way to incorporate ML/
 ## What's next for ScoliNosis
 We would love to implement additional classification that gives the user more detail about the scoliosis that they have. We would also like to implement a feature where users can track their progress.
 
-## Try it out
-[Click here](obscure-badlands-65461.herokuapp.com)
+## Links
+[Scoliosis Detector](obscure-badlands-65461.herokuapp.com)
+[Devpost](https://devpost.com/software/scolinosis?ref_content=user-portfolio&ref_feature=in_progress)

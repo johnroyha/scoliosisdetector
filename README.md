@@ -21,5 +21,5 @@ I learned how to use Azure Custom Vision API for a simple way to incorporate ML/
 We would love to implement additional classification that gives the user more detail about the scoliosis that they have. We would also like to implement a feature where users can track their progress.
 
 ## Links
-[Scoliosis Detector](obscure-badlands-65461.herokuapp.com)
+[Scoliosis Detector](obscure-badlands-65461.herokuapp.com) </br>
 [Devpost](https://devpost.com/software/scolinosis?ref_content=user-portfolio&ref_feature=in_progress)
